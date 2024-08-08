@@ -1,6 +1,8 @@
 • FUNCTION 
 -A set of instructions to Carry out a particular task 
 -syntax
+
+
      def_function name(parameters):
 
 
