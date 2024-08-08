@@ -23,10 +23,13 @@
 
  
 For loop is used in this code
+
+
 -syntax 
 
 
    for var in sequence:
+
        Statement 
 
 
